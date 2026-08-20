@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Altaf Malik",
+    "email": "zmaltaf00@gmail.com",
+    "password": "$2a$10$X.YPCmzWy/Y1KoinumI9dO.V6uMApyD/ZDUkPxQ0EGfTCkg3o9jOi",
+    "createdAt": "2026-08-19T07:46:15.151Z"
+  },
+  {
+    "id": 2,
+    "name": "malik",
+    "email": "abc@gmail.com",
+    "password": "$2a$10$0ABQJDQ9Lt0bDkNfffq2pe4MnrTiVpxLW5srE2Qy4FXFUgh5H2rwe",
+    "createdAt": "2026-08-19T10:28:35.999Z"
+  }
+]

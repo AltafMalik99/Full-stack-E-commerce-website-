@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "userId": 2,
+    "items": [
+      {
+        "id": 12,
+        "name": "Classic White Leather Sneakers",
+        "price": 64.99,
+        "quantity": 1
+      },
+      {
+        "id": 20,
+        "name": "Leather Belt",
+        "price": 22.99,
+        "quantity": 1
+      }
+    ],
+    "shippingInfo": {
+      "name": "Altaf Malik",
+      "address": "korangi karachi sectors 31b kda ",
+      "city": "karachi",
+      "phone": "0"
+    },
+    "total": 87.97999999999999,
+    "status": "pending",
+    "createdAt": "2026-08-19T10:30:57.987Z"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "items": [
+      {
+        "id": 17,
+        "name": "Minimalist Analog Watch",
+        "price": 89.99,
+        "quantity": 1
+      },
+      {
+        "id": 7,
+        "name": "High-Waist Skinny Jeans",
+        "price": 54.99,
+        "quantity": 2
+      }
+    ],
+    "shippingInfo": {
+      "name": "Altaf Malik",
+      "address": "korangi karachi sectors 31b kda",
+      "city": "karachi",
+      "phone": "0301222221212"
+    },
+    "total": 199.97,
+    "status": "pending",
+    "createdAt": "2026-08-19T10:33:44.868Z"
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "items": [
+      {
+        "id": 16,
+        "name": "Leather Crossbody Bag",
+        "price": 69.99,
+        "quantity": 2
+      },
+      {
+        "id": 6,
+        "name": "Floral Summer Dress",
+        "price": 49.99,
+        "quantity": 1
+      }
+    ],
+    "shippingInfo": {
+      "name": "Altaf Malik",
+      "address": "karachi korangi crossing",
+      "city": "KORANGI",
+      "phone": "15661616"
+    },
+    "total": 189.97,
+    "status": "pending",
+    "createdAt": "2026-08-19T19:06:00.798Z"
+  },
+  {
+    "id": 4,
+    "userId": 1,
+    "items": [
+      {
+        "id": 1,
+        "name": "Classic Casual T-Shirt",
+        "price": 29.99,
+        "quantity": 1
+      }
+    ],
+    "shippingInfo": {
+      "name": "Altaf Malik",
+      "address": "karachi korangi crossing",
+      "city": "KORANGI",
+      "phone": "0303003000"
+    },
+    "total": 29.99,
+    "status": "pending",
+    "createdAt": "2026-08-20T07:13:37.247Z"
+  }
+]
