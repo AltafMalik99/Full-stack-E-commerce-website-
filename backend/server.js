@@ -46,6 +46,4 @@ app.use("/api/orders", orderRoutes);
 app.use(notFound);
 app.use(errorHandler);
 
-app.listen(PORT, () => {
-  console.log(`Server running on http://localhost:${PORT}`);
-});
+export default app;

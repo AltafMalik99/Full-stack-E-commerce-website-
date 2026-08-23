@@ -100,5 +100,158 @@
     "total": 29.99,
     "status": "pending",
     "createdAt": "2026-08-20T07:13:37.247Z"
+  },
+  {
+    "id": 5,
+    "userId": 1,
+    "items": [
+      {
+        "id": 1,
+        "name": "Classic Casual T-Shirt",
+        "price": 29.99,
+        "quantity": 1
+      }
+    ],
+    "shippingInfo": {
+      "name": "Altaf Malik",
+      "address": "karachi korangi crossing",
+      "city": "KORANGI",
+      "phone": "033330303003"
+    },
+    "total": 29.99,
+    "status": "pending",
+    "createdAt": "2026-08-21T10:54:39.852Z"
+  },
+  {
+    "id": 6,
+    "userId": 1,
+    "items": [
+      {
+        "id": 20,
+        "name": "Leather Belt",
+        "price": 22.99,
+        "quantity": 1
+      }
+    ],
+    "shippingInfo": {
+      "name": "Altaf Malik",
+      "address": "karachi korangi crossing",
+      "city": "KORANGI",
+      "phone": "15661616"
+    },
+    "total": 22.99,
+    "status": "pending",
+    "createdAt": "2026-08-21T17:01:58.166Z"
+  },
+  {
+    "id": 7,
+    "userId": 1,
+    "items": [
+      {
+        "id": 18,
+        "name": "Polarized Sunglasses",
+        "price": 24.99,
+        "quantity": 1
+      }
+    ],
+    "shippingInfo": {
+      "name": "Altaf Malik",
+      "address": "karachi korangi crossing",
+      "city": "KORANGI",
+      "phone": "15661616"
+    },
+    "total": 24.99,
+    "status": "pending",
+    "createdAt": "2026-08-22T07:46:18.656Z"
+  },
+  {
+    "id": 8,
+    "userId": 1,
+    "items": [
+      {
+        "id": 1,
+        "name": "Classic Casual T-Shirt",
+        "price": 29.99,
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "name": "Classic Casual T-Shirt",
+        "price": 29.99,
+        "quantity": 1
+      }
+    ],
+    "shippingInfo": {
+      "name": "Altaf Malik",
+      "address": "karachi korangi crossing",
+      "city": "KORANGI",
+      "phone": "15661616"
+    },
+    "total": 59.98,
+    "status": "pending",
+    "createdAt": "2026-08-23T06:18:45.510Z"
+  },
+  {
+    "id": 9,
+    "userId": 1,
+    "items": [
+      {
+        "id": 2,
+        "name": "Slim Fit Denim Jeans",
+        "price": 59.99,
+        "quantity": 1
+      }
+    ],
+    "shippingInfo": {
+      "name": "Altaf Malik",
+      "address": "karachi korangi crossing",
+      "city": "KORANGI",
+      "phone": "15661616"
+    },
+    "total": 59.99,
+    "status": "pending",
+    "createdAt": "2026-08-23T09:47:07.375Z"
+  },
+  {
+    "id": 10,
+    "userId": 1,
+    "items": [
+      {
+        "id": 5,
+        "name": "Basic Crewneck Sweatshirt",
+        "price": 34.99,
+        "quantity": 1
+      }
+    ],
+    "shippingInfo": {
+      "name": "Altaf Malik",
+      "address": "karachi korangi crossing",
+      "city": "KORANGI",
+      "phone": "15661616"
+    },
+    "total": 34.99,
+    "status": "pending",
+    "createdAt": "2026-08-23T12:33:16.188Z"
+  },
+  {
+    "id": 11,
+    "userId": 1,
+    "items": [
+      {
+        "id": 2,
+        "name": "Slim Fit Denim Jeans",
+        "price": 59.99,
+        "quantity": 2
+      }
+    ],
+    "shippingInfo": {
+      "name": "Altaf Malik",
+      "address": "karachi korangi crossing",
+      "city": "KORANGI",
+      "phone": "15661616"
+    },
+    "total": 119.98,
+    "status": "pending",
+    "createdAt": "2026-08-23T13:01:57.350Z"
   }
 ]
