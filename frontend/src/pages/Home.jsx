@@ -17,17 +17,17 @@ const CATEGORIES = [
   {
     name: "Women",
     slug: "women",
-    image: "women.png",
+    image: "/women.png",
   },
   {
     name: "Shoes",
     slug: "shoes",
-    image: "shoes.png",
+    image: "/shoes.png",
   },
   {
     name: "Accessories",
     slug: "accessories",
-    image: "accessories.png",
+    image: "/accessories.png",
   },
 ];
 

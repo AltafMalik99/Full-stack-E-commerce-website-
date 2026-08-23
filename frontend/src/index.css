@@ -643,6 +643,61 @@ select {
   margin-bottom: 16px;
 }
 
+/* ============ PRODUCT COLORS ============ */
+
+.color-selector {
+  margin: 24px 0;
+}
+
+.color-selector h3 {
+  font-size: 1rem;
+  margin-bottom: 12px;
+}
+
+.color-selector h3 span {
+  font-weight: 400;
+  color: var(--gray-600);
+}
+
+.color-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.color-option {
+  width: 90px;
+  padding: 6px;
+  background: var(--white);
+  border: 1px solid var(--gray-200);
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.color-option img {
+  width: 76px;
+  height: 76px;
+  object-fit: cover;
+  border-radius: 7px;
+  margin-bottom: 5px;
+}
+
+.color-option span {
+  display: block;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.color-option:hover {
+  border-color: var(--black);
+}
+
+.color-option.selected {
+  border: 2px solid var(--black);
+}
+
+
 .quantity-selector {
   display: flex;
   align-items: center;

@@ -33,7 +33,7 @@ export default function Hero() {
       <div className="hero-image">
         <img
         src="/homeimage.png"
-          alt="Fashion models wearing the latest styles"
+          alt="Fashion models wearing the latest style ns bnbn"
         />
       </div>
     </section>
