@@ -30,11 +30,12 @@ export default function Hero() {
         </div>
       </div>
 
-      <div className="hero-image">
-        <img
-        src="/homeimage.png"
-          alt="Fashion models wearing the latest style ns bnbn"
-        />
+  <div className="hero-image">
+  <img
+    src={`${import.meta.env.BASE_URL}homeimage.png`}
+    alt="Fashion models wearing the latest style"
+  />
+
       </div>
     </section>
   );
