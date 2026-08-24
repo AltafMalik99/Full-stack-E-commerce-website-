@@ -12,22 +12,22 @@ const CATEGORIES = [
   {
     name: "Men",
     slug: "men",
-    image: "/men.png",
+    image: `${import.meta.env.BASE_URL}men.png`,
   },
   {
     name: "Women",
     slug: "women",
-    image: "/women.png",
+    image: `${import.meta.env.BASE_URL}women.png`,
   },
   {
     name: "Shoes",
     slug: "shoes",
-    image: "/shoes.png",
+    image: `${import.meta.env.BASE_URL}shoes.png`,
   },
   {
     name: "Accessories",
     slug: "accessories",
-    image: "/accessories.png",
+    image: `${import.meta.env.BASE_URL}accessories.png`,
   },
 ];
 
